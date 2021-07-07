@@ -35,3 +35,5 @@ if (typeof document !== 'undefined') {
     })
   }
 }
+
+ReactDOM.render(<App />, document.getElementById('root'));
