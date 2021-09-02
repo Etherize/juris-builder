@@ -37,7 +37,6 @@ function App() {
           </Router>
         </React.Suspense>
       </div>
-      <JBFooter hide={queryParams.hideUI}  />
     </Root>
   )
 }

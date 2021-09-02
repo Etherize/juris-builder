@@ -41,7 +41,7 @@ const InterviewDemo = () => {
 
     return(
         <Card style={{height: "100%"}}>
-            <CardHeader>Sample Juris Interview</CardHeader>
+            <CardHeader>Summon an Entity</CardHeader>
             <CardBody style={{overflow: "auto"}}>
                 <iframe src={iframeSrc} width="100%" height="100%" style={{border: "none"}}></iframe>
             </CardBody>
